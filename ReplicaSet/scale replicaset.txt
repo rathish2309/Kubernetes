@@ -1,0 +1,2 @@
+#Scale rs 
+kubectl scale rs {rs name} --replicas={number of replicas}
