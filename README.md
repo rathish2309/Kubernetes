@@ -27,18 +27,6 @@ This repository also serves as my <strong>hands-on practice for the CKAD (Certif
   <li>📈 <strong>Helm & Package Management:</strong> Automate deployments using Helm charts.</li>
 </ul>
 
-<hr>
-
-<h2>🎯 Goals</h2>
-<ul>
-  <li>Gain <strong>hands-on experience</strong> with Kubernetes in QA/DevOps workflows.</li>
-  <li>Deploy, scale, and troubleshoot applications <strong>effectively</strong> in a cluster.</li>
-  <li>Prepare for <strong>Kubernetes certifications</strong> or real-world projects.</li>
-  <li>Document learnings and share <strong>best practices</strong> for automation and continuous delivery.</li>
-</ul>
-
-<hr>
-
 <h2>⚙️ Tech Stack</h2>
 <table>
   <tr>
