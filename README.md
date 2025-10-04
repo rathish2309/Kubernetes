@@ -13,7 +13,7 @@
 </p>
 
 <p>
-A dedicated repository for <strong>hands-on Kubernetes learning</strong>, experiments, and practical notes to strengthen QA/DevOps skills and prepare for real-world scenarios and certifications. 🌐
+This repository also serves as my <strong>hands-on practice for the CKAD (Certified Kubernetes Application Developer) Linux certification</strong>, covering real-world tasks and exercises.
 </p>
 
 <hr>
@@ -59,4 +59,6 @@ A dedicated repository for <strong>hands-on Kubernetes learning</strong>, experi
   </tr>
 </table>
 
-<hr>
+
+
+
