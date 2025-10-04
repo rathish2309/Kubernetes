@@ -1,0 +1,2 @@
+Key takeaway:
+A ReplicaSet is basically an upgraded version of a Replication Controller with more powerful label selection and native support for Deployments. RC still works, but RS is preferred in modern Kubernetes setups.
