@@ -1,0 +1,9 @@
+#Create a new pod using the nginx image.
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx-pod
+spec:
+  containers:
+    - name: nginx
+      image: nginx

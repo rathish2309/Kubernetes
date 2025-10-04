@@ -1,0 +1,44 @@
+# Create a pod from a YAML file
+kubectl apply -f pod.yaml
+
+# Get all pods in the current namespace
+kubectl get pods
+
+# Get detailed information about a specific pod
+kubectl describe pod <pod-name>
+
+# Delete a specific pod
+kubectl delete pod <pod-name>
+
+# Get pods in all namespaces
+kubectl get pods --all-namespaces
+
+# Get pods with wide output (includes node info)
+kubectl get pods -o wide
+
+# Get logs from a pod
+kubectl logs <pod-name>
+
+# Get logs from a specific container in a pod
+kubectl logs <pod-name> -c <container-name>
+
+# Execute a command inside a running pod
+kubectl exec -it <pod-name> -- /bin/sh
+
+# Port-forward a local port to a port on the pod
+kubectl port-forward pod/<pod-name> <local-port>:<pod-port>
+
+# List pods with a specific label
+kubectl get pods -l <label-key>=<label-value>
+
+# Edit a running pod (not recommended, use deployments)
+kubectl edit pod <pod-name>
+
+# Get YAML manifest for a pod
+kubectl get pod <pod-name> -o yaml
+
+# Watch pods as they change
+kubectl get pods --watch
+
+# Delete all pods in the current namespace
+kubectl delete pods --all
