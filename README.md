@@ -1,17 +1,71 @@
-🚀 Kubernetes Self-Learning Hub
-Welcome to my Kubernetes Self-Learning Hub — a dedicated space for hands-on experiments, practical labs, and notes on Kubernetes. This repository is designed to strengthen QA/DevOps skills and prepare for real-world applications and certifications. 🌐
-📚 What You’ll Find Inside
-🧪 Labs & Tutorials: Step-by-step exercises to understand Kubernetes concepts.
-📦 Pods & Deployments: Practical examples with Pods, Deployments, and ReplicaSets.
-🌐 Services & Networking: Learn Services, Ingress, and cluster networking essentials.
-🔑 Config & Secrets: Manage ConfigMaps, Secrets, and environment variables securely.
-📈 Helm & Package Management: Automate deployments using Helm charts.
-🎯 Learning Goals
-Gain hands-on experience with Kubernetes in QA/DevOps workflows.
-Understand how to deploy, scale, and troubleshoot applications within a cluster.
-Prepare for Kubernetes certification exams or real-world projects.
-Document learning and share best practices for automation and continuous delivery.
-⚙️ Technology Stack
-Kubernetes – Core orchestration platform 🖥️
-Docker – Containerization of applications 🐳
-Helm – Deployment automation and package management ⛵
+<h1>🚀 Kubernetes Self-Learning Hub</h1>
+
+<p>
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://helm.sh/">
+    <img src="https://img.shields.io/badge/Helm-0F172A?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+  </a>
+</p>
+
+<p>
+A dedicated repository for <strong>hands-on Kubernetes learning</strong>, experiments, and practical notes to strengthen QA/DevOps skills and prepare for real-world scenarios and certifications. 🌐
+</p>
+
+<hr>
+
+<h2>📚 Contents</h2>
+<ul>
+  <li>🧪 <strong>Labs & Tutorials:</strong> Step-by-step exercises to understand Kubernetes concepts.</li>
+  <li>📦 <strong>Pods & Deployments:</strong> Practical examples with Pods, Deployments, and ReplicaSets.</li>
+  <li>🌐 <strong>Services & Networking:</strong> Learn Services, Ingress, and cluster networking essentials.</li>
+  <li>🔑 <strong>Config & Secrets:</strong> Manage ConfigMaps, Secrets, and environment variables securely.</li>
+  <li>📈 <strong>Helm & Package Management:</strong> Automate deployments using Helm charts.</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Goals</h2>
+<ul>
+  <li>Gain <strong>hands-on experience</strong> with Kubernetes in QA/DevOps workflows.</li>
+  <li>Deploy, scale, and troubleshoot applications <strong>effectively</strong> in a cluster.</li>
+  <li>Prepare for <strong>Kubernetes certifications</strong> or real-world projects.</li>
+  <li>Document learnings and share <strong>best practices</strong> for automation and continuous delivery.</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ Tech Stack</h2>
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td>🖥️ Kubernetes</td>
+    <td>Core container orchestration platform</td>
+  </tr>
+  <tr>
+    <td>🐳 Docker</td>
+    <td>Containerize applications</td>
+  </tr>
+  <tr>
+    <td>⛵ Helm</td>
+    <td>Deployment automation & package management</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🌟 Benefits</h2>
+<ul>
+  <li>Safe environment to <strong>experiment and learn</strong>.</li>
+  <li>Collect <strong>tips, tricks, and best practices</strong> throughout the Kubernetes journey.</li>
+  <li>Ideal for <strong>QA/DevOps engineers</strong> seeking practical knowledge and real-world readiness.</li>
+</ul>
+
+<hr>
