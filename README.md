@@ -60,12 +60,3 @@ A dedicated repository for <strong>hands-on Kubernetes learning</strong>, experi
 </table>
 
 <hr>
-
-<h2>🌟 Benefits</h2>
-<ul>
-  <li>Safe environment to <strong>experiment and learn</strong>.</li>
-  <li>Collect <strong>tips, tricks, and best practices</strong> throughout the Kubernetes journey.</li>
-  <li>Ideal for <strong>QA/DevOps engineers</strong> seeking practical knowledge and real-world readiness.</li>
-</ul>
-
-<hr>
