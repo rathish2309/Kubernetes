@@ -1,0 +1,20 @@
+
+# if we need to import configmap values as environment variables in a pod- we need to use valueFrom - configMapKeyRef
+
+apiVersion: v1
+kind: Poda
+metadata:
+  name: webapp-color
+  namespace: default
+  labels:
+    name: webapp-color
+spec:
+  containers:
+    - name: webapp-color
+      image: kodekloud/webapp-color
+      env:
+        - name: CONFIGMAP_USERNAME
+          valueFrom:
+            configMapKeyRef:
+              name: webapp-config-map
+              key: APP_COLOR
